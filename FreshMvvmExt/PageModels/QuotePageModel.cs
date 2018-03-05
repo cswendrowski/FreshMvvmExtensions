@@ -1,7 +1,9 @@
 ﻿using FreshMvvm;
 
-namespace $rootnamespace$.PageModels {
-    public class $basename$PageModel : FreshBasePageModel {
+namespace $rootnamespace$.PageModels
+{
+    public class $basename$PageModel : FreshBasePageModel
+    {
 
     }
 }
